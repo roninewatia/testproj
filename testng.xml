@@ -2,7 +2,8 @@
 <suite name="WebDriver">
 <test name="Test">
 <classes>
-<class name="TestNG.addbook"></class>
+<!-- <class name="TestNG.addbook"></class> -->
+<class name="TestPrj.verifytxt"></class>
 </classes>
 </test>
 </suite>
